@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciastek3000
-- 👀 I’m interested in "discord.py"
-- 🌱 I’m currently learning "discord.py"
+- 👀 I’m interested in "bike"
+- 🌱 I’m currently learning "JS"
 - 💞️ I’m looking to collaborate on "Lab_bot"
 - 📫 How to reach me discord: szybkimichal#9977
 
